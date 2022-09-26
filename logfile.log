@@ -1,0 +1,4 @@
+2022-09-26 13:44:43,122 INFO  [Log] searchProduct() is Successfull! 
+2022-09-26 13:44:47,368 INFO  [Log] selectProduct() is Successfull! 
+2022-09-26 13:44:51,664 INFO  [Log] addProductToBasket() is Successfull! 
+2022-09-26 13:44:54,752 INFO  [Log] goToBasket() is Successfull! 
