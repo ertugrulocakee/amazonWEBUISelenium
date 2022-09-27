@@ -3,7 +3,9 @@
 
 Java Maven Projesidir. Selenium, JUnit ve Log4J kütüphaneleri kullanılarak bir WEB UI Otomasyonu oluşturulmuştur. OOP prensiplerine ve Page Object Pattern kullanımına dikkat edilmiştir. WebDriver olarak EdgeDriver kullanılmaktadır.
 
-Video => https://drive.google.com/file/d/19-rhuYEQ3Z93gzEAgI2eQVMM5Y04eTaQ/view?usp=sharing
+https://drive.google.com/file/d/19-rhuYEQ3Z93gzEAgI2eQVMM5Y04eTaQ/view
+
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://drive.google.com/file/d/19-rhuYEQ3Z93gzEAgI2eQVMM5Y04eTaQ/view "Now in Android: 55")
 
 Test Sonuçları
 
