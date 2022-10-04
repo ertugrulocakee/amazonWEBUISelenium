@@ -3,7 +3,7 @@
 
 Java Maven Projesidir. Selenium, JUnit ve Log4J kütüphaneleri kullanılarak bir WEB UI Otomasyonu oluşturulmuştur. OOP prensiplerine ve Page Object Pattern kullanımına dikkat edilmiştir. WebDriver olarak EdgeDriver kullanılmaktadır.
 
-Selenium Web Otomasyon
+
 - https://www.amazon.com.tr/ sitesi açılır.
 - Çerez isteği kabul edilir.
 - Ana sayfanın açıldığı kontrol edilir.
